@@ -7,12 +7,19 @@
   width: 413px;
   object-fit: cover;
   display: block;
+  object-position: center;
+  border-radius: 16px;
 }
 
 .card__title {
   font-size: 20px;
   font-weight: 500;
   color: #212121;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .card__content {
