@@ -17,3 +17,7 @@ This project introduces responsive design, where your webpage adapts to differen
 This webpage is deployed to GitHub Pages
 
 [Deployment Link](https://reynafuego.github.io/se_project_spots/)
+
+## Project Pitch Video
+
+Check out [this video](https://www.loom.com/share/57063c304bcb48b5a67c4a656b35ae95\), where I describe my project and some challenges I faced while building it.
